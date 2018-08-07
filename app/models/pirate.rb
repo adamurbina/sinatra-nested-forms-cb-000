@@ -8,5 +8,7 @@ class Pirate
 
     end
 
-    def
+    def self.all
+        @@all
+    end
 end
